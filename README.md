@@ -1,6 +1,6 @@
 # Introdction🎀
 
-<p align="center">Hey <b>Dear</b>❤️ I'm </b><a href="https://github.com/theNareshofficial">thenareshofficial</a>🔥🔥🔥</p>
+<p align="center">Hey <b>Dear</b>❤️ I'm </b><a href="https://github.com/theNareshofficial">Naresh</a>🔥🔥🔥</p>
 <h5 align="center">Below are a few links you can visit and some stats to look at too🔗</h5>
 
 <p align="center">
