@@ -20,7 +20,7 @@
 
 # My Streak🔥🔥🔥
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theNareshOfficial&layout=donut-vertical&bg_color=000000&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theNareshofficial&layout=donut-vertical&bg_color=000000&text_color=ffffff)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theNareshofficial&theme=dark&border_radius=5.5&excludeDaysLabel=43EB79)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=theNareshofficial&show_icons=true&hide_border=false&theme=dark&count_private=true&hide_title=false&text_color=fff)
 
