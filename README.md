@@ -1,7 +1,7 @@
 
-<div align="center">
+<p align="center">
   <img src="https://i.gifer.com/EeQL.gif" width="600" height="300"/><br>
-</div>
+</p>
 
 <p align="center">
 <a href="http://thenareshofficial.free.nf/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
