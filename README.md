@@ -8,7 +8,7 @@
 </p>
 <p align="center">
 <a href="https://www.youtube.com/@nareshtechweb930"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Image"/></a>
-<a href="https://www.youtube.com/@nareshtechweb930"><img src="https://img.shields.io/badge/-Instagram-FFA500?style=for-the-badge&logo=instagram&logoColor=white" alt="YouTube Image"/></a>
+<a href="https://www.instagram.com/the_naresh_offcial/"><img src="https://img.shields.io/badge/-Instagram-FFA500?style=for-the-badge&logo=instagram&logoColor=white" alt="YouTube Image"/></a>
 </p>
 
 
