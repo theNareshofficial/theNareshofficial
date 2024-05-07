@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.gifer.com/EeQL.gif" width="600" height="300"/><br>
+  <img src="assest/Anime_programmer_wallpaper.jpg" width="600" height="300"/><br>
 </p>
 
 <p align="center">
@@ -10,6 +10,7 @@
 <a href="https://www.youtube.com/@nareshtechweb930"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Image"/></a>
 <a href="https://www.instagram.com/the_naresh_offcial/"><img src="https://img.shields.io/badge/-Instagram-FFA500?style=for-the-badge&logo=instagram&logoColor=white" alt="YouTube Image"/></a>
 </p>
+
 
 
 # I know⚡️⚡️⚡️
