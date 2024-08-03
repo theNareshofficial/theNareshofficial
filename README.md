@@ -16,7 +16,7 @@
 # I know⚡️⚡️⚡️
 
 <p align="center">
-<a href="https://github.com/thenareshofficial"><img src="https://skillicons.dev/icons?i=c,python,php,bash,html,css,js,react,mysql,vscode,docker,github,git,kali,linux,windows,apple,azure,postman&perline=9"> </a> 
+<a href="https://github.com/thenareshofficial"><img src="https://skillicons.dev/icons?i=c,python,php,bash,html,css,js,react,mysql,vscode,docker,postman,github,git,kali,linux,windows,apple&perline=9"> </a> 
 </p>
 
 # My Streak🔥🔥🔥
