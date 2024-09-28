@@ -11,8 +11,6 @@
 <a href="https://www.instagram.com/the_naresh_offcial/"><img src="https://img.shields.io/badge/-Instagram-FFA500?style=for-the-badge&logo=instagram&logoColor=white" alt="YouTube Image"/></a>
 </p>
 
-
-
 # I know⚡️⚡️⚡️
 
 <p align="center">
