@@ -25,6 +25,11 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theNareshofficial&theme=dark&border_radius=5.5&excludeDaysLabel=43EB79)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=theNareshofficial&show_icons=true&hide_border=false&theme=dark&count_private=true&hide_title=false&text_color=fff)
 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=theNareshofficial)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theNareshofficial&theme=tokyo-night	)](https://github.com/theNareshofficial/github-readme-activity-graph)
+
 <p align="center">
 <!-- 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=theNareshofficial&show_icons=true&hide_border=false&theme=dark&count_private=true&hide_title=false&bg_color=FFD700&text_color=000&icon_color=000&title_color=000&ring_color=000000&count_wegiht=0&size_weight=5) -->
